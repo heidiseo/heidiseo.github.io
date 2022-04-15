@@ -1,0 +1,47 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+#generator {
+    border: 2px solid black;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    margin: 0px 0px 50px 0px;
+    background-color: #ffa07a;
+}
+
+.quote-box {
+    background-color: #6495ED;
+    margin: 20px 0px;
+    padding: 20px;
+    border-radius: 5px;
+    font-style: italic;
+}
+
+h1 {
+    color: #4169e1;
+    margin: 0 auto;
+    padding: 30px
+}
+
+.quote {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#latest-quote {
+    line-height: 300%;
+}
+
+.button {
+    background-color: #66cdaa;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    align-self: center;
+}
